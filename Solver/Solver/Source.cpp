@@ -184,7 +184,7 @@ int main()
 		cin >> FileName;
 
 		ifstream InFile;
-		InFile.open(FileName);
+		InFile.open(FileName+".txt");
 
 		// Check For The Correct Openning of The File
 		if (!InFile)
