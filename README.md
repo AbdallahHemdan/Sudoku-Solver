@@ -1,5 +1,6 @@
 # 🎰 Sudoku-Solver
 -------------------
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4a79de1abf7748c4affd0bbfe8b7473b)](https://app.codacy.com/manual/AbdallahHemdan/Sudoku-Solver?utm_source=github.com&utm_medium=referral&utm_content=AbdallahHemdan/Sudoku-Solver&utm_campaign=Badge_Grade_Dashboard)
 [![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/HemPad)](https://github.com/AbdallahHemdan/HemPad/issues)
 [![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/HemPad)](https://github.com/AbdallahHemdan/HemPad/network)
 [![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/HemPad)](https://github.com/AbdallahHemdan/HemPad/stargazers)
